@@ -1,0 +1,69 @@
+header a {
+    border: 5px solid royalblue;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:cornflowerblue;
+    color:black;
+}
+
+header h2  {
+    text-align: center;
+    font-size: 15px;
+    color:black;
+    border: 5px solid red;
+    border-radius:10px;
+    background-color: crimson;
+}
+
+header h1  {
+    text-align: center;
+    font-size: 40px;
+    border: 5px solid red;
+    border-radius:10px;
+    background-color: crimson;
+}
+
+header img  {
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+}
+
+main h1{
+    text-align: center;
+    border: 5px solid blue;
+    border-radius:10px;
+    background-color: darkblue;
+    color:white;
+}
+
+main p{
+    text-align: center;
+    border: 5px solid blue;
+    border-radius:10px;
+    background-color: darkblue;
+    color:white;
+}
+
+
+footer img  {
+    width: 400px;
+    height: 200px;
+    border: 5px solid orange;
+    border-radius: 10px;
+}
+
+main img  {
+    border:5px solid blue;
+    border-radius: 10px;
+}
+
+footer p {
+    border: 3px solid orange;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+
+
+
